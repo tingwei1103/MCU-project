@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Future Home Applications
-author: [Richard Kuo]
+title: Innovative project proposal
+author: [tingwei1103]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
