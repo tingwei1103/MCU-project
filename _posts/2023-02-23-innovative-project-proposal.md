@@ -40,7 +40,7 @@ This homework is to specify a Future Home application and describe the key featu
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 感測方式:亮度，溫濕度,語音
+1. 感測方式:亮度，溫濕度，語音
 2. 供電方式:家用電源
 3. 聯網方式:WiFi或BT
 
@@ -51,7 +51,7 @@ This homework is to specify a Future Home application and describe the key featu
 4. 智慧燈泡連接
 
 ### 系統方塊圖
-![]()
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/01.jpg?raw=true)
 
 ---
 
@@ -62,9 +62,15 @@ This homework is to specify a Future Home application and describe the key featu
 ---
 
 
-### 參考影片
-![](https://github.com/tingwei1103/MCU-project/blob/main/images/3DPW_Mega2560_RAMPS14_A4988_LCD.png?raw=true)
-<iframe width="654" height="368" src="https://www.youtube.com/embed/moojunGu4UM" title="【DinTer】成為職業選手的必備條件？特哥不再玩台服的原因？得罪主席=陸服帳號被鎖十年...感謝粉絲熱情送帳號～瞬疾步伐葛雷夫Graves JG 頂級繞背！對面有怪獸啊！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### 參考圖片
+![](https://s314.siliconimg.com/kb/content_images/2017/04/26/1322452/1493205170_651.jpg)
+### 參考資料
+https://www.hksilicon.com/articles/1322452
+
+https://www.ntuh.gov.tw/SLP/Fpage.action?muid=1452&fid=1261
+
+https://www.mouser.tw/new/knowles/knowles-ia611-processor/
+
 
 <br>
 <br>
