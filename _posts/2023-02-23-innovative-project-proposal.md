@@ -66,7 +66,7 @@ This homework is to specify a Future Home application and describe the key featu
 ![](https://s314.siliconimg.com/kb/content_images/2017/04/26/1322452/1493205170_887.jpg)
 
 ### 參考影片
-https://youtu.be/a6Gz3g7VxSw
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/a6Gz3g7VxSw" title="Welcome to Podtime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 參考資料
 https://www.hksilicon.com/articles/1322452
