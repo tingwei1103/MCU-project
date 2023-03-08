@@ -46,13 +46,12 @@ This homework is to specify a Future Home application and describe the key featu
 
 **所需相關技術：**
 1. 照度感測: ADC界面讀取光敏電阻(GL5516)
-2. 睡眠品質監測：藍牙穿戴式手環(ESP32+MPU6050), 運用三軸加速器偵測睡眠動態
-3. 手勢偵測：MPU6050感測手勢動作之三軸加速器數值, 利用TinyML進行AI手勢辨識
-4. 網路電台播放：ESP32 Internet Radio player
-5. 智慧燈泡連接：AWS Alexa介接, 或藍牙命令操控燈光
+2. 睡眠品質監測：整夜睡眠多項生理功能檢查
+3. 語音偵測：語音控制方案(Knowles SmartMic - IA611)
+4. 智慧燈泡連接
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_morning_alarm_system.png?raw=true)
+![]()
 
 ---
 
