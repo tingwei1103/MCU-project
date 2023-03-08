@@ -63,7 +63,7 @@ This homework is to specify a Future Home application and describe the key featu
 
 
 ### 參考圖片
-![](https://s314.siliconimg.com/kb/content_images/2017/04/26/1322452/1493205170_651.jpg)
+![](https://s314.siliconimg.com/kb/content_images/2017/04/26/1322452/1493205170_887.jpg)
 ### 參考資料
 https://www.hksilicon.com/articles/1322452
 
