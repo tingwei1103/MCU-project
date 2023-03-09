@@ -51,7 +51,7 @@ This homework is to specify a Future Home application and describe the key featu
 4. 智慧燈泡連接
 
 ### 系統方塊圖
-![](https://github.com/tingwei1103/MCU-project/blob/main/images/01.jpg?raw=true)
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/03.jpg?raw=true)
 
 ---
 
@@ -63,7 +63,7 @@ This homework is to specify a Future Home application and describe the key featu
 
 
 ### 參考圖片
-![](https://github.com/tingwei1103/MCU-project/blob/main/images/03.jpg?raw=true)
+![](https://s314.siliconimg.com/kb/content_images/2017/04/26/1322452/1493205170_887.jpg)
 
 ### 參考影片
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/a6Gz3g7VxSw" title="Welcome to Podtime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
