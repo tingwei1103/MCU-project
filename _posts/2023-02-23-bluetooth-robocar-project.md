@@ -6,7 +6,6 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This project is to implement a bluetooth remote controlled robotcar.
 
 ---
 ## WiFi遙控機器人
