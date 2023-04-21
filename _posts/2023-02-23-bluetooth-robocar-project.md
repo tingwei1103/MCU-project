@@ -35,7 +35,7 @@ tags: [jekyll, ai]
 ![](https://github.com/tingwei1103/MCU-project/blob/main/images/wifi%20car%20.png?raw=true)
 
 ### 影片
- <https://youtu.be/T7w7vh_h2Qg>
+ <iframe width="1280" height="1017" src="https://www.youtube.com/embed/T7w7vh_h2Qg" title="wifi car video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
