@@ -35,7 +35,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
 ### 影片
- <https://youtube.com/shorts/T7w7vh_h2Qg?feature=share>
+ <https://youtu.be/T7w7vh_h2Qg>
 
 <br>
 <br>
