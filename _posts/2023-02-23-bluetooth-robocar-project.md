@@ -13,7 +13,7 @@ tags: [jekyll, ai]
 
 
 ### 應用功能說明
-1. WIFI remote control App 
+1. WiFi remote control App 
 2. two-wheel robocar
 
 ### 設計考量與相關技術
@@ -26,6 +26,7 @@ tags: [jekyll, ai]
 **所需相關技術：**
 1. MIT App Inventor 2 手機程式設計 
 2. Arduino程式設計
+3. NodeMCU WebUI
 
 **所需相關套件:**
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
