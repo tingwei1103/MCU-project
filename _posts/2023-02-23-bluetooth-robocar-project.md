@@ -32,7 +32,7 @@ tags: [jekyll, ai]
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 
 ### 系統方塊圖
-![](https://github.com/tingwei1103/MCU-project/blob/main/images/wifi%20car.png?raw=true)
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/wifi%20car%20.png?raw=true)
 
 ### 影片
  <https://youtu.be/T7w7vh_h2Qg>
