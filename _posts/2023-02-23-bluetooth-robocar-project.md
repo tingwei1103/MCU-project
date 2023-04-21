@@ -14,7 +14,7 @@ tags: [jekyll, ai]
 
 ### 應用功能說明
 1. WiFi remote control App 
-2. two-wheel robocar
+2. two-wheel robotcar
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
