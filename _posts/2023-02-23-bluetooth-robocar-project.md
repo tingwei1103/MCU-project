@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIFI遙控機器人實作
+title: WiFi遙控機器人實作
 author: [許庭維]
 category: [Lecture]
 tags: [jekyll, ai]
