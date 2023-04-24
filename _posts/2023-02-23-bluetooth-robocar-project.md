@@ -37,7 +37,7 @@ tags: [jekyll, ai]
 ### 影片
  <iframe width="1280" height="1017" src="https://www.youtube.com/embed/T7w7vh_h2Qg" title="wifi car video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
- ### Arduino 程式碼
+### Arduino 程式碼
  
  // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
 // ESP32 Webserver to receive commands to control RoboCar
