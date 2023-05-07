@@ -13,7 +13,7 @@ tags: [jekyll, ai]
 
 
 ### 應用功能說明
-1. 
+1. 感測溫濕度
 
 
 
@@ -21,7 +21,7 @@ tags: [jekyll, ai]
 
 
 ### 圖片
-![]()
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/64483.jpg?raw=true)
 
 <br>
 <br>
