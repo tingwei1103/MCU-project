@@ -23,7 +23,7 @@ tags: [jekyll, ai]
 ### 圖片
 ![](https://github.com/tingwei1103/MCU-project/blob/main/images/Screenshot_20230504-204948_Chrome.jpg?raw=true)
 
-![]()
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/Screenshot_20230504-205031_Chrome.jpg?raw=true)
 <br>
 <br>
 
