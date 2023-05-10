@@ -21,9 +21,16 @@ tags: [jekyll, ai]
 
 
 ### 圖片
-![]()
+
+1.HTU21
+
 ![](https://github.com/tingwei1103/MCU-project/blob/main/images/64483.jpg?raw=true)
 
+---
+2.DHT22
+
+
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/106571.jpg?raw=true)
 <br>
 <br>
 
