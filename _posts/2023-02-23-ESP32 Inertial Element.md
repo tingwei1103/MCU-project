@@ -13,22 +13,26 @@ tags: [jekyll, ai]
 
 
 ### 應用功能說明
-1. Bluetooth remote control App 
-2. two-wheel robocar
+1.量測角速度
 
-### 設計考量與相關技術
-**
-
-**所需相關技術：**
-1. MIT App Inventor 2 手機程式設計 
-2. Arduino程式設計
-
+### 元件
+1.陀螺儀MPU6050
 
 
 
 
 ### 圖片
-![]()
+
+1.
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/P_20230511_204710.jpg?raw=true)
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/P_20230511_205623.jpg?raw=true)
+
+
+---
+
+2.
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/P_20230511_211849.jpg?raw=true)
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/P_20230511_211857.jpg?raw=true)
 
 <br>
 <br>
