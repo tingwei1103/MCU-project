@@ -24,7 +24,7 @@ tags: [jekyll, ai]
 
 
 ### 圖片
-![]()
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/P_20230518_210912.jpg?raw=true)
 
 
 
