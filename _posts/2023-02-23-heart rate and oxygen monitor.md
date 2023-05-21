@@ -1,6 +1,6 @@
 ---
 layout: post
-title: heart rate and oxygen monitor
+title: Heart rate and oxygen monitor
 author: [Richard Kuo]
 category: [Lecture]
 tags: [jekyll, ai]
