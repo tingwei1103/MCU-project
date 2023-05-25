@@ -24,7 +24,7 @@ tags: [jekyll, ai]
 ![](https://github.com/tingwei1103/MCU-project/blob/main/images/thinkspeak.jpg?raw=true)
 
 ### 網址
-(https://thingspeak.com/channels/2162979/private_show)
+https://thingspeak.com/channels/2162979/private_show
 
 
 <br>
