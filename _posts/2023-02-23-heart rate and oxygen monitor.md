@@ -16,7 +16,7 @@ tags: [jekyll, ai]
 1. 量測心跳與血氧濃度
 
 ### 系統方塊圖
-
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/H%20O.png?raw=true)
 
 
 
