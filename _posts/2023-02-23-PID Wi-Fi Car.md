@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ESP32 IoT webserver & client
-author: [Richard Kuo]
+title: PID Wi-Fi Car
+author: [tingwei]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -9,7 +9,7 @@ tags: [jekyll, ai]
 .
 
 ---
-## 藍牙遙控機器人
+## PID遙控小車
 
 
 ### 應用功能說明
