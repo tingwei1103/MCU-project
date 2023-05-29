@@ -15,9 +15,9 @@ tags: [jekyll, ai]
 ### 應用功能說明
 1. 感測溫濕度
 
+### 系統方塊圖
 
-
-
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/iot.png?raw=true)
 
 
 ### 圖片
