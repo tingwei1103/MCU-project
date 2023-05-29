@@ -24,7 +24,7 @@ tags: [jekyll, ai]
 4. 聯網方式:網路
 
 **所需相關技術：**
-1. 
+1. NodeMCU WebUI
 2. Arduino程式設計
 
 **所需相關套件:**
