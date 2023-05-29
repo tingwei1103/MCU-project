@@ -16,7 +16,7 @@ tags: [jekyll, ai]
 1. 上傳檔案
 
 ### 系統方塊圖
-
+![](https://github.com/tingwei1103/MCU-project/blob/main/images/ota.png?raw=true)
 
 
 
