@@ -33,6 +33,7 @@ tags: [jekyll, ai]
 ![](https://github.com/tingwei1103/MCU-project/blob/main/images/106571.jpg?raw=true)
 
 ### 程式碼
+"""
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <HTTPClient.h>
@@ -121,7 +122,7 @@ void loop() {
   //system_deep_sleep(1 * 60 * 1000000);
   delay(1*60*1000);
 }
-
+"""
 <br>
 <br>
 
